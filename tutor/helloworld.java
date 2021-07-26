@@ -1,5 +1,6 @@
-public void helloworld(){
-System.out.println("Hello !, welcome to devops");
-
-}
+public class helloworld{
+       public static void main(String args[]){
+	System.out.println("Hello !, welcome to devops");
+       }
+  }
 
