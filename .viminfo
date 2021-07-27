@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1627405223,,"wq"
+|2,0,1627405506,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -31,28 +31,40 @@
 |3,0,36,0,1,0,1627319089,"{"
 
 # File marks:
-'0  8  43  ~/helloworld.java
-|4,48,8,43,1627405223,"~/helloworld.java"
-'1  8  43  ~/helloworld.java
-|4,49,8,43,1627405124,"~/helloworld.java"
-'2  7  41  ~/helloworld.java
-|4,50,7,41,1627404696,"~/helloworld.java"
-'3  7  41  ~/helloworld.java
-|4,51,7,41,1627404696,"~/helloworld.java"
-'4  7  41  ~/helloworld.java
-|4,52,7,41,1627404696,"~/helloworld.java"
-'5  7  41  ~/helloworld.java
-|4,53,7,41,1627404696,"~/helloworld.java"
-'6  6  57  ~/helloworld.java
-|4,54,6,57,1627404086,"~/helloworld.java"
-'7  6  57  ~/helloworld.java
-|4,55,6,57,1627404086,"~/helloworld.java"
-'8  6  57  ~/helloworld.java
-|4,56,6,57,1627404086,"~/helloworld.java"
-'9  6  57  ~/helloworld.java
-|4,57,6,57,1627404086,"~/helloworld.java"
+'0  7  13  ~/helloworld.java
+|4,48,7,13,1627405506,"~/helloworld.java"
+'1  7  13  ~/helloworld.java
+|4,49,7,13,1627405499,"~/helloworld.java"
+'2  7  13  ~/helloworld.java
+|4,50,7,13,1627405392,"~/helloworld.java"
+'3  7  13  ~/helloworld.java
+|4,51,7,13,1627405392,"~/helloworld.java"
+'4  8  43  ~/helloworld.java
+|4,52,8,43,1627405223,"~/helloworld.java"
+'5  8  43  ~/helloworld.java
+|4,53,8,43,1627405223,"~/helloworld.java"
+'6  8  43  ~/helloworld.java
+|4,54,8,43,1627405223,"~/helloworld.java"
+'7  8  43  ~/helloworld.java
+|4,55,8,43,1627405223,"~/helloworld.java"
+'8  8  43  ~/helloworld.java
+|4,56,8,43,1627405223,"~/helloworld.java"
+'9  8  43  ~/helloworld.java
+|4,57,8,43,1627405223,"~/helloworld.java"
 
 # Jumplist (newest first):
+-'  7  13  ~/helloworld.java
+|4,39,7,13,1627405506,"~/helloworld.java"
+-'  7  13  ~/helloworld.java
+|4,39,7,13,1627405499,"~/helloworld.java"
+-'  7  13  ~/helloworld.java
+|4,39,7,13,1627405392,"~/helloworld.java"
+-'  8  43  ~/helloworld.java
+|4,39,8,43,1627405360,"~/helloworld.java"
+-'  8  43  ~/helloworld.java
+|4,39,8,43,1627405360,"~/helloworld.java"
+-'  8  43  ~/helloworld.java
+|4,39,8,43,1627405360,"~/helloworld.java"
 -'  8  43  ~/helloworld.java
 |4,39,8,43,1627405223,"~/helloworld.java"
 -'  8  43  ~/helloworld.java
@@ -70,7 +82,19 @@
 -'  6  57  ~/helloworld.java
 |4,39,6,57,1627404672,"~/helloworld.java"
 -'  6  57  ~/helloworld.java
+|4,39,6,57,1627404672,"~/helloworld.java"
+-'  6  57  ~/helloworld.java
+|4,39,6,57,1627404672,"~/helloworld.java"
+-'  6  57  ~/helloworld.java
+|4,39,6,57,1627404672,"~/helloworld.java"
+-'  6  57  ~/helloworld.java
 |4,39,6,57,1627404086,"~/helloworld.java"
+-'  5  53  ~/helloworld.java
+|4,39,5,53,1627404043,"~/helloworld.java"
+-'  5  53  ~/helloworld.java
+|4,39,5,53,1627404043,"~/helloworld.java"
+-'  5  53  ~/helloworld.java
+|4,39,5,53,1627404043,"~/helloworld.java"
 -'  5  53  ~/helloworld.java
 |4,39,5,53,1627404043,"~/helloworld.java"
 -'  5  53  ~/helloworld.java
@@ -91,6 +115,12 @@
 |4,39,4,8,1627403746,"~/helloworld.java"
 -'  4  8  ~/helloworld.java
 |4,39,4,8,1627403746,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627403746,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627403746,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627403746,"~/helloworld.java"
 -'  1  0  ~/add.sh
 |4,39,1,0,1627400131,"~/add.sh"
 -'  1  0  ~/add.sh
@@ -155,112 +185,82 @@
 |4,39,1,0,1627400131,"~/add.sh"
 -'  1  0  ~/add.sh
 |4,39,1,0,1627400131,"~/add.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
--'  3  34  ~/visit.sh
-|4,39,3,34,1627398793,"~/visit.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/helloworld.java
-	*	1627405219	0
-	"	8	43
-	^	8	44
-	.	8	43
+	*	1627405505	0
+	"	7	13
+	^	7	14
+	.	7	13
 	+	1	24
 	+	10	0
 	+	3	39
@@ -274,6 +274,7 @@
 	+	6	58
 	+	7	42
 	+	8	43
+	+	7	13
 
 > ~/add.sh
 	*	1627400128	0
