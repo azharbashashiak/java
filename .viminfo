@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1627403833,,"wq"
+|2,0,1627404086,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -31,36 +31,46 @@
 |3,0,36,0,1,0,1627319089,"{"
 
 # File marks:
-'0  5  53  ~/helloworld.java
-|4,48,5,53,1627403833,"~/helloworld.java"
-'1  1  0  ~/add.sh
-|4,49,1,0,1627400131,"~/add.sh"
-'2  3  34  ~/visit.sh
-|4,50,3,34,1627398793,"~/visit.sh"
-'3  4  8  ~/helloworld.java
-|4,51,4,8,1627320248,"~/helloworld.java"
-'4  4  8  ~/helloworld.java
-|4,52,4,8,1627320248,"~/helloworld.java"
-'5  4  1  ~/helloworld.java
-|4,53,4,1,1627320219,"~/helloworld.java"
-'6  4  1  ~/helloworld.java
-|4,54,4,1,1627320219,"~/helloworld.java"
-'7  4  53  ~/helloworld.java
-|4,55,4,53,1627320180,"~/helloworld.java"
-'8  4  53  ~/helloworld.java
-|4,56,4,53,1627320180,"~/helloworld.java"
-'9  4  53  ~/helloworld.java
-|4,57,4,53,1627320180,"~/helloworld.java"
+'0  6  57  ~/helloworld.java
+|4,48,6,57,1627404086,"~/helloworld.java"
+'1  5  53  ~/helloworld.java
+|4,49,5,53,1627403833,"~/helloworld.java"
+'2  5  53  ~/helloworld.java
+|4,50,5,53,1627403833,"~/helloworld.java"
+'3  1  0  ~/add.sh
+|4,51,1,0,1627400131,"~/add.sh"
+'4  3  34  ~/visit.sh
+|4,52,3,34,1627398793,"~/visit.sh"
+'5  4  8  ~/helloworld.java
+|4,53,4,8,1627320248,"~/helloworld.java"
+'6  4  8  ~/helloworld.java
+|4,54,4,8,1627320248,"~/helloworld.java"
+'7  4  8  ~/helloworld.java
+|4,55,4,8,1627320248,"~/helloworld.java"
+'8  4  8  ~/helloworld.java
+|4,56,4,8,1627320248,"~/helloworld.java"
+'9  4  1  ~/helloworld.java
+|4,57,4,1,1627320219,"~/helloworld.java"
 
 # Jumplist (newest first):
+-'  6  57  ~/helloworld.java
+|4,39,6,57,1627404086,"~/helloworld.java"
+-'  5  53  ~/helloworld.java
+|4,39,5,53,1627404043,"~/helloworld.java"
 -'  5  53  ~/helloworld.java
 |4,39,5,53,1627403833,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627403746,"~/helloworld.java"
 -'  4  8  ~/helloworld.java
 |4,39,4,8,1627403746,"~/helloworld.java"
 -'  1  0  ~/add.sh
 |4,39,1,0,1627400131,"~/add.sh"
 -'  1  0  ~/add.sh
 |4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
 -'  3  34  ~/visit.sh
 |4,39,3,34,1627398793,"~/visit.sh"
 -'  3  34  ~/visit.sh
@@ -69,6 +79,22 @@
 |4,39,3,34,1627398793,"~/visit.sh"
 -'  3  34  ~/visit.sh
 |4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
 -'  1  0  ~/visit.sh
 |4,39,1,0,1627398745,"~/visit.sh"
 -'  1  0  ~/visit.sh
@@ -101,6 +127,8 @@
 |4,39,4,53,1627320180,"~/helloworld.java"
 -'  4  53  ~/helloworld.java
 |4,39,4,53,1627320180,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320150,"~/helloworld.java"
 -'  6  0  ~/helloworld.java
 |4,39,6,0,1627320150,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
@@ -127,6 +155,10 @@
 |4,39,5,0,1627320150,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
 |4,39,5,0,1627320150,"~/helloworld.java"
+-'  9  0  ~/helloworld.java
+|4,39,9,0,1627320121,"~/helloworld.java"
+-'  8  0  ~/helloworld.java
+|4,39,8,0,1627320121,"~/helloworld.java"
 -'  8  0  ~/helloworld.java
 |4,39,8,0,1627320121,"~/helloworld.java"
 -'  7  0  ~/helloworld.java
@@ -153,6 +185,8 @@
 |4,39,7,0,1627320121,"~/helloworld.java"
 -'  7  0  ~/helloworld.java
 |4,39,7,0,1627320121,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
 -'  7  0  ~/helloworld.java
 |4,39,7,0,1627320119,"~/helloworld.java"
 -'  3  0  ~/helloworld.java
@@ -219,57 +253,25 @@
 |4,39,2,0,1627320117,"~/helloworld.java"
 -'  2  0  ~/helloworld.java
 |4,39,2,0,1627320117,"~/helloworld.java"
--'  2  0  ~/helloworld.java
-|4,39,2,0,1627320117,"~/helloworld.java"
--'  2  0  ~/helloworld.java
-|4,39,2,0,1627320117,"~/helloworld.java"
--'  2  0  ~/helloworld.java
-|4,39,2,0,1627320117,"~/helloworld.java"
--'  2  0  ~/helloworld.java
-|4,39,2,0,1627320117,"~/helloworld.java"
--'  2  0  ~/helloworld.java
-|4,39,2,0,1627320117,"~/helloworld.java"
--'  2  0  ~/helloworld.java
-|4,39,2,0,1627320117,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
--'  1  0  ~/helloworld.java
-|4,39,1,0,1627320097,"~/helloworld.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/helloworld.java
-	*	1627403831	0
-	"	5	53
-	^	5	54
-	.	5	53
+	*	1627404084	0
+	"	6	57
+	^	6	58
+	.	6	57
 	+	1	24
-	+	7	0
+	+	8	0
 	+	3	39
-	+	6	0
+	+	7	0
 	+	4	1
 	+	3	30
 	+	4	8
 	+	4	54
 	+	5	53
+	+	7	0
+	+	6	57
 
 > ~/add.sh
 	*	1627400128	0
