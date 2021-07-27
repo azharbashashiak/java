@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1627398793,,"wq"
+|2,0,1627403833,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,41 +23,72 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""0	LINE	0
+	 System.out.println("Hello world, to the new devops");
+|3,1,0,1,1,0,1627403753," System.out.println(\"Hello world, to the new devops\");"
+"-	CHAR	0
 	{
-|3,1,36,0,1,0,1627319089,"{"
+|3,0,36,0,1,0,1627319089,"{"
 
 # File marks:
-'0  3  34  ~/visit.sh
-|4,48,3,34,1627398793,"~/visit.sh"
-'1  4  8  ~/helloworld.java
-|4,49,4,8,1627320248,"~/helloworld.java"
-'2  4  1  ~/helloworld.java
-|4,50,4,1,1627320219,"~/helloworld.java"
-'3  4  53  ~/helloworld.java
-|4,51,4,53,1627320180,"~/helloworld.java"
-'4  4  53  ~/helloworld.java
-|4,52,4,53,1627320180,"~/helloworld.java"
-'5  1  23  ~/tutor/helloworld.java
-|4,53,1,23,1627319104,"~/tutor/helloworld.java"
-'6  1  11  ~/tutor/helloworld.java
-|4,54,1,11,1627319054,"~/tutor/helloworld.java"
-'7  2  23  ~/tutor/helloworld.java
-|4,55,2,23,1627318980,"~/tutor/helloworld.java"
-'8  2  23  ~/tutor/helloworld.java
-|4,56,2,23,1627318980,"~/tutor/helloworld.java"
-'9  2  23  ~/tutor/helloworld.java
-|4,57,2,23,1627318980,"~/tutor/helloworld.java"
+'0  5  53  ~/helloworld.java
+|4,48,5,53,1627403833,"~/helloworld.java"
+'1  1  0  ~/add.sh
+|4,49,1,0,1627400131,"~/add.sh"
+'2  3  34  ~/visit.sh
+|4,50,3,34,1627398793,"~/visit.sh"
+'3  4  8  ~/helloworld.java
+|4,51,4,8,1627320248,"~/helloworld.java"
+'4  4  8  ~/helloworld.java
+|4,52,4,8,1627320248,"~/helloworld.java"
+'5  4  1  ~/helloworld.java
+|4,53,4,1,1627320219,"~/helloworld.java"
+'6  4  1  ~/helloworld.java
+|4,54,4,1,1627320219,"~/helloworld.java"
+'7  4  53  ~/helloworld.java
+|4,55,4,53,1627320180,"~/helloworld.java"
+'8  4  53  ~/helloworld.java
+|4,56,4,53,1627320180,"~/helloworld.java"
+'9  4  53  ~/helloworld.java
+|4,57,4,53,1627320180,"~/helloworld.java"
 
 # Jumplist (newest first):
+-'  5  53  ~/helloworld.java
+|4,39,5,53,1627403833,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627403746,"~/helloworld.java"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
+-'  1  0  ~/add.sh
+|4,39,1,0,1627400131,"~/add.sh"
 -'  3  34  ~/visit.sh
 |4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  3  34  ~/visit.sh
+|4,39,3,34,1627398793,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
+-'  1  0  ~/visit.sh
+|4,39,1,0,1627398745,"~/visit.sh"
 -'  1  0  ~/visit.sh
 |4,39,1,0,1627398745,"~/visit.sh"
 -'  4  8  ~/helloworld.java
 |4,39,4,8,1627320248,"~/helloworld.java"
 -'  4  8  ~/helloworld.java
 |4,39,4,8,1627320248,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627320248,"~/helloworld.java"
+-'  4  8  ~/helloworld.java
+|4,39,4,8,1627320248,"~/helloworld.java"
+-'  4  1  ~/helloworld.java
+|4,39,4,1,1627320219,"~/helloworld.java"
+-'  4  1  ~/helloworld.java
+|4,39,4,1,1627320219,"~/helloworld.java"
 -'  4  1  ~/helloworld.java
 |4,39,4,1,1627320219,"~/helloworld.java"
 -'  4  1  ~/helloworld.java
@@ -66,6 +97,12 @@
 |4,39,4,53,1627320180,"~/helloworld.java"
 -'  4  53  ~/helloworld.java
 |4,39,4,53,1627320180,"~/helloworld.java"
+-'  4  53  ~/helloworld.java
+|4,39,4,53,1627320180,"~/helloworld.java"
+-'  4  53  ~/helloworld.java
+|4,39,4,53,1627320180,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320150,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
 |4,39,5,0,1627320150,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
@@ -78,6 +115,20 @@
 |4,39,5,0,1627320150,"~/helloworld.java"
 -'  5  0  ~/helloworld.java
 |4,39,5,0,1627320150,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1627320150,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1627320150,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1627320150,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1627320150,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1627320150,"~/helloworld.java"
+-'  5  0  ~/helloworld.java
+|4,39,5,0,1627320150,"~/helloworld.java"
+-'  8  0  ~/helloworld.java
+|4,39,8,0,1627320121,"~/helloworld.java"
 -'  7  0  ~/helloworld.java
 |4,39,7,0,1627320121,"~/helloworld.java"
 -'  7  0  ~/helloworld.java
@@ -90,6 +141,46 @@
 |4,39,7,0,1627320121,"~/helloworld.java"
 -'  7  0  ~/helloworld.java
 |4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320121,"~/helloworld.java"
+-'  7  0  ~/helloworld.java
+|4,39,7,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
+-'  6  0  ~/helloworld.java
+|4,39,6,0,1627320119,"~/helloworld.java"
+-'  3  0  ~/helloworld.java
+|4,39,3,0,1627320119,"~/helloworld.java"
 -'  6  0  ~/helloworld.java
 |4,39,6,0,1627320119,"~/helloworld.java"
 -'  3  0  ~/helloworld.java
@@ -126,6 +217,20 @@
 |4,39,2,0,1627320117,"~/helloworld.java"
 -'  2  0  ~/helloworld.java
 |4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
+-'  2  0  ~/helloworld.java
+|4,39,2,0,1627320117,"~/helloworld.java"
 -'  1  0  ~/helloworld.java
 |4,39,1,0,1627320097,"~/helloworld.java"
 -'  1  0  ~/helloworld.java
@@ -138,120 +243,37 @@
 |4,39,1,0,1627320097,"~/helloworld.java"
 -'  1  0  ~/helloworld.java
 |4,39,1,0,1627320097,"~/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  23  ~/tutor/helloworld.java
-|4,39,1,23,1627319104,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  1  11  ~/tutor/helloworld.java
-|4,39,1,11,1627319054,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
--'  2  23  ~/tutor/helloworld.java
-|4,39,2,23,1627319003,"~/tutor/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1627320097,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1627320097,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1627320097,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1627320097,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1627320097,"~/helloworld.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/helloworld.java
+	*	1627403831	0
+	"	5	53
+	^	5	54
+	.	5	53
+	+	1	24
+	+	7	0
+	+	3	39
+	+	6	0
+	+	4	1
+	+	3	30
+	+	4	8
+	+	4	54
+	+	5	53
+
+> ~/add.sh
+	*	1627400128	0
+	"	1	0
 
 > ~/visit.sh
 	*	1627398792	0
@@ -259,19 +281,6 @@
 	^	3	35
 	.	3	34
 	+	3	34
-
-> ~/helloworld.java
-	*	1627320246	0
-	"	4	8
-	^	4	9
-	.	4	8
-	+	1	24
-	+	6	0
-	+	3	39
-	+	5	0
-	+	4	1
-	+	3	30
-	+	4	8
 
 > ~/tutor/helloworld.java
 	*	1627319103	0
