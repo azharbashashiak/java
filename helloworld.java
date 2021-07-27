@@ -9,6 +9,9 @@ public class helloworld{
  System.out.println("Hello world, to the new devops");
  System.out.println("hello to scm webhook");
  System.out.println("Hello world, to the new devops");
+ System.out.println("hello to scm webhook");
+ System.out.println("hello to scm webhook");
+ System.out.println("Hello world, to the new devops");
  }
 
 }
