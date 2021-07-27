@@ -5,6 +5,7 @@ public class helloworld{
  System.out.println("welcome to the world o jenkins");
  System.out.println("Hers a new commit to test webhooks");
  System.out.pintln("welcome to webhooks");
+ System.out.println("hello to scm webhook");
  }
 
 }
